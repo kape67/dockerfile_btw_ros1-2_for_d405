@@ -8,7 +8,7 @@ This dockerfile is for ROS1 users to use intel D405 which only works with ROS2.
 ./build_image.sh
 ``` 
 
-If you want to change ```MASTER_IP``` or ```HOSTNAME```, you should edit variables in the dockerfile.
+If you want to change ```MASTER_IP``` or ```HOSTNAME```, you need to modify the variable in the dockerfile.
 Both values are ```localhost``` as default.
 
 ## Run Image
