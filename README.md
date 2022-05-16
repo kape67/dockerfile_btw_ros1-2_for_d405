@@ -9,7 +9,7 @@ This dockerfile is for ROS1 users to use intel D405 which only works with ROS2.
 ``` 
 
 If you want to change ```MASTER_IP``` or ```HOSTNAME```, you should edit variables in the dockerfile.
-The both default values are ```localhost```.
+Both values are ```localhost``` as default.
 
 ## Run Image
 First, you should run roscore in hostPC.
